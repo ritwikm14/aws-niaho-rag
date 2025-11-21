@@ -1,9 +1,3 @@
-Perfect 👍 — here’s the **complete and final professional `README.md`** content for your root project (`aws-niaho-rag/README.md`) — not the one inside `raw/`.
-It’s concise, clean, and looks like something a senior AWS engineer or top-tier open-source contributor would write:
-
----
-
-````markdown
 # 🧠 AWS NIAHO RAG Pipeline (Serverless, Mock Mode)
 
 This repository implements a **serverless Retrieval-Augmented Generation (RAG) pipeline** on **AWS Lambda** and **Amazon S3**, built around the  
@@ -160,22 +154,7 @@ Expected output:
 
 ---
 
-## 🧾 License & Attribution
 
-This project is for **academic and non-commercial demonstration** of AWS serverless RAG design.
-DNV and NIAHO® are registered trademarks of Det Norske Veritas Healthcare Inc.
-© 2025 Ritwik Mohan. All rights reserved.
 
-````
-
----
-
-✅ Once you paste this into `D:\aws-niaho-rag\README.md` and save (`Ctrl + S`), run:
-
-```powershell
-git add README.md
-git commit -m "Add full professional README for AWS NIAHO RAG project"
-git push
-````
 
 
